@@ -13,4 +13,4 @@ To launch the design tool, you may open the `sustainflatable design tool.3dm` fi
 To use the design tool, you may follow the steps presented in our paper for further instructions.
 
 ## Secondary Development
-The source file for the design tool is `sustainflatable design tool.gh`, which contains the simulation program (done with python components) and UI implementation. We also provide an external file `simulation_kernal.py`, which contains the primary simulation program and can be easily edited/debugged in other IDEs without the GUI console. The external file and the design tool are not connected. Updates should be synchronized manually.
+The source file for the design tool is `sustainflatable design tool.gh`, which contains the simulation program (done with python components) and UI implementation. We also provide an external file `simulation_kernal.py`, which contains the primary simulation program and can be easily edited/debugged in other IDEs outside the Grasshopper platform. The external file and the design tool are not connected. Updates should be synchronized manually.
